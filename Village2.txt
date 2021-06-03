@@ -1,3 +1,4 @@
 House
 Fruit Garden
 Trees
+Barn
